@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 100%;
+size-adjust: 100%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.Logo {fill:rgb(0, 0, 0);}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                                          </tspan>
+<tspan x="15" y="50">                                          </tspan>
+<tspan x="15" y="70" class="Logo">                   .----.                 </tspan>
+<tspan x="15" y="90" class="Logo">                 ...----....              </tspan>
+<tspan x="15" y="110" class="Logo"> .-=-----. .              ......-====-.  </tspan>
+<tspan x="15" y="130" class="Logo">---=-==---..                ..---==+++=+=</tspan>
+<tspan x="15" y="150" class="Logo">.      .  ............. ............    .</tspan>
+<tspan x="15" y="170" class="Logo">              ..-----==-....      .      </tspan>
+<tspan x="15" y="190" class="Logo">                  --..                   </tspan>
+<tspan x="15" y="210" class="Logo">                   .                     </tspan>
+<tspan x="15" y="230" class="Logo">      .        .                         </tspan>
+<tspan x="15" y="250" class="Logo">      .                          ..     .</tspan>
+<tspan x="15" y="270" class="Logo">.        .            .         . .    ..</tspan>
+<tspan x="15" y="290" class="Logo">..                    ..     .  .      ..</tspan>
+<tspan x="15" y="310" class="Logo">.        -   .             .... -.     ...</tspan>
+<tspan x="15" y="330" class="Logo">.- .    .-..            .- .... =.     .--</tspan>
+<tspan x="15" y="350" class="Logo">.#= . .----       .. .  .-.-..=.+..    .--</tspan>
+<tspan x="15" y="370" class="Logo">.+-...=====.      ..  . .-------+== .. -+-</tspan>
+<tspan x="15" y="390" class="Logo"> ---. =+++=.      .--   --=====-+#+. ..=+.</tspan>
+<tspan x="15" y="410" class="Logo">      -#+##-.-.   -=.- =+==+#@#+@#-       </tspan>
+<tspan x="15" y="430" class="Logo">        .-=-......---. +@+=+##==-.        </tspan>
+<tspan x="15" y="450" class="Logo">                  ==-  =+=-.              </tspan>
+<tspan x="15" y="470" class="Logo">                  .-.                     </tspan>
+<tspan x="15" y="490">                                          </tspan>
+<tspan x="15" y="510">                                          </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="410" y="90">- BlackIce</tspan> -—————————————————————————————————————————————-—-
+<tspan x="410" y="110" class="addColor">● </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">Linux</tspan>
+<tspan x="410" y="130" class="addColor">● </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................................ </tspan><tspan class="value" id="age_data">26+ years</tspan>
+<tspan x="410" y="150" class="addColor">● </tspan><tspan class="key">Specialization</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Sysadmin, DevOps</tspan>
+<tspan x="410" y="150" class="addColor"> </tspan>
+<tspan x="410" y="170" class="addColor">● </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Bash, Python, Go</tspan>
+<tspan x="410" y="190" class="addColor">● </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">JSON, YAML</tspan>
+<tspan x="410" y="210" class="addColor">● </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Russian</tspan>
+<tspan x="410" y="230" class="addColor"> </tspan>
+<tspan x="410" y="250" class="addColor">● </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="410" y="270" class="addColor">● </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">3D Printing, Guitar</tspan>
+
+<tspan x="410" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="410" y="330" class="addColor">● </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@BlackIceCrypto</tspan>
+<tspan x="410" y="350" class="addColor">● </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">blackicenoderunner@gmail.com</tspan>
+<tspan x="410" y="370" class="addColor">● </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">BlackIceCrypto</tspan>
+<tspan x="410" y="390" class="addColor">● </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">blackicecrypto</tspan>
+
+<tspan x="410" y="430">- Web 3</tspan> -————————————————————————————————————————————————-—-
+<tspan x="410" y="450" class="addColor">● </tspan><tspan class="value">                Professional Validator, Mentor</tspan>
+</text>
+</svg>
